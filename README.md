@@ -1,2 +1,2 @@
-# SalafDKV
+# Kays
 Aplikasi Manajemen Pembelajaran DKV
